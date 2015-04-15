@@ -1,4 +1,4 @@
-# SimpleTodo
+# SimpleTodo Demo
 
 This is an Android demo application for simple TODO list. See the [CodePath Pre-work](http://courses.codepath.com/snippets/intro_to_android/prework) for a step-by-step tutorial.
 
