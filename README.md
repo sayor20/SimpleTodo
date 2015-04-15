@@ -5,9 +5,6 @@ This is an Android demo application for simple TODO list. See the [CodePath Pre-
 Time spent: 4 hours spent in total
 
 Completed user stories:
-an you successfully add and remove items from the todo list within your app?
-Did you include support for editing todo items as described above?
-Does your app persist todo items and retrieve them properly on app restart?
 
  * [x] Required: User can view a list of todo items and can add, remove items from the todo list.
  * [x] Required: User can click on a todo item in the list to bring up a new activity to edit and save item.
